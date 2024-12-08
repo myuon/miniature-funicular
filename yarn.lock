@@ -699,9 +699,9 @@
     "@types/koa" "*"
 
 "@types/koa-pino-logger@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@types/koa-pino-logger/-/koa-pino-logger-3.0.1.tgz#ebb99ad691a3686913864e84e537b6f7fc36db13"
-  integrity sha512-KqGej3mNnP94KA8RBiSr4w0rqcQVUvInG6PjnGPIjKPex6iUWiVOL4c6UeoiUQYDMb/WQVZRmaC7dzPsev1IKw==
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@types/koa-pino-logger/-/koa-pino-logger-3.0.4.tgz#a4af2be32aab09917270a365dd75c7512298db28"
+  integrity sha512-rjXihDguqIbisctje6soD6KSUgdRM97uLfcyL0hQyv2aewTa55ZReRrP481hZUZ7C2BIgscN5xS9QLG/SdWZ3Q==
   dependencies:
     "@types/koa" "*"
     "@types/pino" "6.3"
